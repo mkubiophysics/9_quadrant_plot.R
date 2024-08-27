@@ -3,6 +3,8 @@
 
 # Introduction
 It is a single script to generate 9 quadrant plot that integarte RNAseq and LC-MS data and further generate quadrants with the genes/proteins commonly expressed in both datasets. 
+![Untitled (30)](https://github.com/user-attachments/assets/a31bda4d-9f7d-4775-9520-303249361662)
+
 
 # Pre-requiste
 . R 
