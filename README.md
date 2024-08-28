@@ -1,8 +1,8 @@
 # 9_quadrant_plot.R
- R script to generate 9 quadrant plot for integrating transcriptomics and proteomics data
+ An R script to make 9 quadrant plot to integrate transcriptomics and proteomics expression data
 
 # Introduction
-It is a single script to generate 9 quadrant plot that integarte RNAseq and LC-MS data and further generate quadrants with the genes/proteins commonly expressed in both datasets. 
+It is a R script to make 9 quadrant plot that integarte RNAseq and LC-MS expression data. The objective of 9 quadrant plot is to separate genes that shows concordance and discordance in the expression at mRNA and protein levels. 
 ![Untitled (30)](https://github.com/user-attachments/assets/a31bda4d-9f7d-4775-9520-303249361662)
 
 
@@ -41,7 +41,7 @@ In R studio
 ```
 It will generate the plot.
 
-Also, to get genes/proteins commonly expressed and present in 9 different quadarant. open the script and modify the directory name where the output will generate
+Also, to get genes/proteins commonly expressed and present in 9 different quadarant. open the script and modify the directory name where the output files will be saved
 
 For, example 
 
